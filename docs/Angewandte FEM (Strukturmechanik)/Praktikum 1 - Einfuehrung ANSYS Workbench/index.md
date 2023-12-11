@@ -1,6 +1,10 @@
 ---
 publish: "true"
+tags:
+  - ANSYS_Einfuehrung
+  - ANSYS/Einfuehrung
 ---
+
 
 > [!important]  Lernziel 1
 > Grundlegendes Verständnis über das Grundprinzip Finite-Elemente Methode (FEM)  
