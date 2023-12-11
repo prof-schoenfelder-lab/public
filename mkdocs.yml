@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Professur Simulation energetischer und technischer Systeme 
+site_description: Seite der Lehrinhalte der Professur Simulation energetischer und technischer Systeme von Prof. Dr.-Ing. Stephan Schönfelder der HTWK Leipzig
+site_url: https://prof-schoenfelder-lab.github.io/public
 
 theme:
     name: 'material'
@@ -10,7 +10,7 @@ theme:
     font:
         text: Ubuntu
         code: Ubuntu Mono
-    language: en
+    language: de
     palette:
 
     # Light mode
