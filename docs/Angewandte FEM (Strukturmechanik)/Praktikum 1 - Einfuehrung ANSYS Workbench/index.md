@@ -2,14 +2,13 @@
 publish: "true"
 ---
 
-
-> [!important]  
+> [!important]  Lernziel 1
 > Grundlegendes Verständnis über das Grundprinzip Finite-Elemente Methode (FEM)  
   
-> [!important]  
+> [!important]  Lernziel 2
 > Kennenlernen von Abläufen im Simulationsprogramm (ANSYS Workbench) zum lösen von strukturmechanische Problemstellungen  
-  
-[[Praktikum 1.1 Allgemeine Hinweise zum Praktikum|Praktikum 1.1 Allgemeine Hinweise zum Praktikum]]  
+
+[[Praktikum 1  1. Allgemeine Hinweise zum Praktikum|Praktikum 1  1. Allgemeine Hinweise zum Praktikum]]
 [[Praktikum 1  2. ANSYS Workbench- Allgemeine Einstellungen|Praktikum 1  2. ANSYS Workbench- Allgemeine Einstellungen]]
 [[Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken|Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken]]
 ![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken/attachments/BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken/attachments/BeispielA_Aufgabenstellung.png]]
