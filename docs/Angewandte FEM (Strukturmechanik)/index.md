@@ -6,7 +6,7 @@ publish: "true"
   
   
   
-[[Praktikum 1 - Einführung ANSYS Workbench|Praktikum 1 - Einführung ANSYS Workbench]]
+[[Praktikum 1 - Einfuehrung ANSYS Workbench|Praktikum 1 - Einfuehrung ANSYS Workbench]]
 - Grundlegendes Verständnis über das **Grundprinzip der Finite-Elemente** **Methode** (FEM)
 - **Kennenlernen** von **Abläufen im Simulationsprogramm (ANSYS Workbench)** zum lösen von strukturmechanische Problemstellungen
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]
