@@ -18,7 +18,7 @@ tags:
 ![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken/attachments/BeispielA_Aufgabenstellung.png|300]]
 
 [[Praktikum 1  4. Beispiel B- einseitig eingespannter Balken mit Einzelkraft|Praktikum 1  4. Beispiel B- einseitig eingespannter Balken mit Einzelkraft]]
-![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  4. Beispiel B- einseitig eingespannter Balken mit Einzelkraft/attachments/BeispielB_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  4. Beispiel B- einseitig eingespannter Balken mit Einzelkraft/attachments/BeispielB_Aufgabenstellung.png]]
+![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  4. Beispiel B- einseitig eingespannter Balken mit Einzelkraft/attachments/BeispielB_Aufgabenstellung.png|300]]
 [[Praktikum 1  5. Beispiel C- Bimetall|Praktikum 1  5. Beispiel C- Bimetall]]
 ![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  5. Beispiel C- Bimetall/attachments/BeispielC_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  5. Beispiel C- Bimetall/attachments/BeispielC_Aufgabenstellung.png]]
 [[Praktikum 1  6. Beispiel D- Lenker|Praktikum 1  6. Beispiel D- Lenker]]
