@@ -9,7 +9,7 @@ publish: "true"
 [[Praktikum 1- Einführung ANSYS Workbench|Praktikum 1- Einführung ANSYS Workbench]]
 - Grundlegendes Verständnis über das **Grundprinzip der Finite-Elemente** **Methode** (FEM)
 - **Kennenlernen** von **Abläufen im Simulationsprogramm (ANSYS Workbench)** zum lösen von strukturmechanische Problemstellungen
-![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png]]
+![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielB_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielB_Aufgabenstellung.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielC_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielC_Aufgabenstellung.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled.png]]
@@ -53,22 +53,3 @@ publish: "true"
 - **Kennenlernen** der verschiedenen **Möglichkeiten** der **Ergebnisdarstellung** (PostProcessing) in ANSYS
 ![[Vektor.png|Vektor.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled 11.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled 11.png]]
-  
-  
-  
-  
-  
-[[❓FAQ|❓FAQ]]
-  
-  
-M.Eng. Felix Kaule
-Prof. Dr.-Ing. Stephan Schönfelder
-  
-  
-  
-==Praktikum erstellt von:== Felix Kaule======Links:== [[❓FAQ|❓FAQ]]
-  
-==Hochschule für Technik, Wirtschaft und Kultur Leipzig  
-Fakultät Ingenieurwissenschaften  
-Karl-Liebknecht-Str. 134  
-04277 Leipzig==
