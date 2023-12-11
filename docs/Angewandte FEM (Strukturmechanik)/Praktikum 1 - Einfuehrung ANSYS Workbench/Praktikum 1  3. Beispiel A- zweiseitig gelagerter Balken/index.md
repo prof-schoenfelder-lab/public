@@ -1,6 +1,9 @@
 ---
 publish: "true"
+tags:
+  - Balken
 ---
+
 
 # 3. Beispiel A: zweiseitig gelagerter Balken
   
