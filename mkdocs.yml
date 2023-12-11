@@ -35,10 +35,13 @@ theme:
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
-        - navigation.sections
         - navigation.path
+        - navigation.tracking
+        - navigation.footer
         - search.suggest
         - search.highlight
+        - header.autohide
+
         
 # Extensions
 markdown_extensions:
@@ -136,3 +139,6 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+    
+copyright: Copyright &copy; 2023 Stephan Schönfelder & Felix Kaule
+
