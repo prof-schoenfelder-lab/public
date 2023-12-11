@@ -5,9 +5,8 @@ publish: "true"
 # 3. Beispiel A: zweiseitig gelagerter Balken
   
 Als einfaches Beispiel starten wir mit einem zweiseitig gelagerten Balken mit Linienlast. Dieser ist in der Geometrie leicht zu erstellen und wir können die Lösungen leicht mit analytischen Gleichungen überprüfen.
-## 3. 1. **Aufgabenstellung**
-![[Notion/Angewandte FEM in der Strukturmechanik/Praktikum 1- Einführung ANSYS Workbench/Praktikum 1 3. Beispiel A- zweiseitig gelagerter Balken/attachments/BeispielA_Aufgabenstellung.png|BeispielA_Aufgabenstellung.png]]
-  
+## 3. 1. **Aufgabenstellung
+  ![[Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken/attachments/_BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/Praktikum 1 - Einfuehrung ANSYS Workbench/Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken/attachments/_BeispielA_Aufgabenstellung.png]]
 ### ==Gegeben==
   
 ==**Material**==
@@ -15,6 +14,7 @@ Als einfaches Beispiel starten wir mit einem zweiseitig gelagerten Balken mit Li
 - Elastizitätsmodul $E=200\,\mathrm{GPa}$﻿
 - Querkontraktionszahl $\nu=0{,}3$﻿
 ==**Geometrie**==
+#Balken
 **Balken mit rechteckigem Querschnitt**
 - Länge ==$L=1000\,\mathrm{mm}$==﻿
 - Breite ==$b=30\,\mathrm{mm}$==﻿
