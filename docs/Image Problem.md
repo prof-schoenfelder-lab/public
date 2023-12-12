@@ -14,6 +14,8 @@ publish: "true"
 
 # without any space in path
 
+![[BeispielA.png|300]]
+
 ![[BeispielA_Aufgabenstellung.png|300]]
 
 
