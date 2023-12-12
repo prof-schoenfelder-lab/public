@@ -20,9 +20,7 @@ Zur Anpassung der Größe funktioniert die `Obsidian` Variante des Bildereinfüg
 ```
 
 Hier ein Beispielbild:
-![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>)
-
-{ width="400"} 
+![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>{width="400"} 
 # Content Tabs
 
 ## Grouping code blocks
