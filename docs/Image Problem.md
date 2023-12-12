@@ -19,6 +19,10 @@ filename="BeispielA_Aufgabenstellung.png"
 ![[BeispielA_Aufgabenstellung.png|300]]
 filename="bikelab.png"
 ![[bikelab.png|50]]
+filename="Drawing 2023-12-12 13.21.33.excalidraw.png"
+![[Drawing 2023-12-12 13.21.33.excalidraw.png|100]]
+
+
 # with space in folder path
 
 ![[attach ments/BeispielA_Aufgabenstellung.png|300]]
