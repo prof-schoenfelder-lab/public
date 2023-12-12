@@ -2,10 +2,6 @@
 publish: "true"
 ---
 
-[[Theorie Finite Elemente Methode|Theorie Finite Elemente Methode]]
-  
-  
-  
 [[Praktikum 1 - Einfuehrung ANSYS Workbench|Praktikum 1 - Einfuehrung ANSYS Workbench]]
 - Grundlegendes Verständnis über das **Grundprinzip der Finite-Elemente** **Methode** (FEM)
 - **Kennenlernen** von **Abläufen im Simulationsprogramm (ANSYS Workbench)** zum lösen von strukturmechanische Problemstellungen
