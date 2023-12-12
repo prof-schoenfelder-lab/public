@@ -1,9 +1,7 @@
 ---
 publish: "true"
-title: index
+title: Willkommen auf der Seite
 ---
-
-# Willkommen
 
 Willkommen auf der Seite von Prof. Schönfelder und M.Eng. Felix Kaule!
 # Visualisierung der Tastatur für Anleitungen
