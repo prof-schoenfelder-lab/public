@@ -6,11 +6,12 @@ title: index
 # Willkommen
 
 Willkommen auf der Seite von Prof. Schönfelder und M.Eng. Felix Kaule!
-# Keyboard
-
+# Visualisierung der Tastatur für Anleitungen
 
 ++ctrl+alt+del++
 
+- ++ctrl+c++ : kopieren 
+- - ++ctrl+v++ : einfügen 
 
 # Content Tabs
 
