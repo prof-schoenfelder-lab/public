@@ -8,8 +8,9 @@ Willkommen auf der Seite von Prof. Schönfelder und M.Eng. Felix Kaule!
 
 ++ctrl+alt+del++
 
-- ++ctrl+c++ : kopieren 
-- - ++ctrl+v++ : einfügen 
+1. Inhalt mit Mauszeiger auswählen
+1. Mit ++ctrl+c++ Inhalt kopieren 
+1. Mit ++ctrl+v++ Inhalt einfügen 
 # Bilder
 
 ![Image title](https://dummyimage.com/600x400/){ width="300" }
