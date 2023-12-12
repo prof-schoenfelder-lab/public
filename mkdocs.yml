@@ -40,7 +40,6 @@ theme:
         - navigation.footer
         - search.suggest
         - search.highlight
-        - header.autohide
 
         
 # Extensions
