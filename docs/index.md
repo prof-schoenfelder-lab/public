@@ -13,7 +13,10 @@ Willkommen auf der Seite von Prof. Schönfelder und M.Eng. Felix Kaule!
 1. Mit ++ctrl+v++ Inhalt einfügen 
 # Bilder
 
-![Image title](https://dummyimage.com/600x400/){ width="300" }
+![Image title](https://dummyimage.com/600x400/){ width="200" }
+
+![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>){ width="200" }
+
 
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png]]
 # Content Tabs
