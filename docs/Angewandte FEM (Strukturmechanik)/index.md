@@ -6,7 +6,7 @@ title: Angewandte FEM (Strukturmechanik)
 # [[Praktikum 1 - Einfuehrung ANSYS Workbench|Praktikum 1 - Einfuehrung ANSYS Workbench]]
 - Grundlegendes Verständnis über das **Grundprinzip der Finite-Elemente** **Methode** (FEM)
 - **Kennenlernen** von **Abläufen im Simulationsprogramm (ANSYS Workbench)** zum lösen von strukturmechanische Problemstellungen
-![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]
+![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]{align=left}
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielB_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielB_Aufgabenstellung.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielC_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielC_Aufgabenstellung.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled.png]]
