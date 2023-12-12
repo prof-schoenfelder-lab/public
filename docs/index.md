@@ -10,6 +10,9 @@ Willkommen auf der Seite von Prof. Schönfelder und M.Eng. Felix Kaule!
 
 - ++ctrl+c++ : kopieren 
 - - ++ctrl+v++ : einfügen 
+# Bilder
+
+![Ersatztitel](https://dummy==image==.com/600x400/){ width="300" }
 
 # Content Tabs
 
