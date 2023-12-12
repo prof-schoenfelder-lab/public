@@ -2,6 +2,7 @@
 publish: "true"
 tags:
   - Balken
+title: Praktikum 1  3. Beispiel A- zweiseitig gelagerter Balken
 ---
 
 

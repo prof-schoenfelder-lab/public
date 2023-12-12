@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: Praktikum 1  7. Zusammenfassung & Ausblick
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: Praktikum 1  2. ANSYS Workbench- Allgemeine Einstellungen
 ---
 
 

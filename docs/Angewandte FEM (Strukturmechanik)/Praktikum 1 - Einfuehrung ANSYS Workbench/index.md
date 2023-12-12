@@ -3,6 +3,7 @@ publish: "true"
 tags:
   - ANSYS_Einfuehrung
   - ANSYS/Einfuehrung
+title: Praktikum 1 - Einfuehrung ANSYS Workbench
 ---
 
 
