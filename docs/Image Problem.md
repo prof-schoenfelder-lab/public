@@ -26,3 +26,5 @@ publish: "true"
 ![[attach ments (test)/BeispielA_Aufgabenstellung.png|300]]
 
 ![[bikelab.png|50]]
+
+![[BeispielAAufgabenstellung.png|300]]
