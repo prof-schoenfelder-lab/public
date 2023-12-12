@@ -24,3 +24,5 @@ publish: "true"
 # with space and ( ) in folder path
 
 ![[attach ments (test)/BeispielA_Aufgabenstellung.png|300]]
+
+![[bikelab.png|200]]
