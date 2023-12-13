@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: 01 Allgemeine Hinweise zum Praktikum
 ---
 
 

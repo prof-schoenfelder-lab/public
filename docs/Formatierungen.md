@@ -26,12 +26,6 @@ Zur Anpassung der Bildgröße (hier beispielhaft mit 300px Breite):
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 </div>
 
-<div class="grid cards" markdown>
-- <img src="/Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-- <img src="../Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-- <img src="docs/../Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-</div>
 # Content Tabs
 
 ## Grouping code blocks
