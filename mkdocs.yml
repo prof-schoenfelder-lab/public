@@ -83,6 +83,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.keys
+  - md_in_html
 plugins:
   - search
   - meta-descriptions
