@@ -10,7 +10,8 @@ publish: "true"
 
 ## working solution with `![](<file.png>){width="300"}
 
-![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>){width="300"}
+![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>){width="300"} 
+working now?
 
 # without any space in path
 filename="BeispielA.png"
