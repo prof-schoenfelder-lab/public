@@ -11,19 +11,15 @@ publish: "true"
 1. Mit ++ctrl+v++ Inhalt einfügen 
 # Bilder
 
-Zur Anpassung der Größe funktioniert die `Obsidian` Variante des Bilder einfügen's mit `![[image.png|300]]`  für eine Breite von 300px nicht. Hier muss die Standard `Markdown` Variante verwendet werden mit dem zusätzlichen Attribut `width`. Zusätzlich muss der Dateiname in `<` `>`  gesetzt werden wenn Leerzeichen im Pfad vorhanden sind: `<Pfad mit Leerzeichen/Datei name.png>`
+Zur Anpassung der Größe Bilder einfügen mit `![[image.png|300]]`  für eine Breite von 300px . 
+# Grids
 
-```markdown
-![Image title](<Pfad mit Leerzeichen/Datei name.png>){width="300"} 
-```
-
-Hier ein Beispielbild:
-![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>){width="300"}
-
-![[bikelab.png|200]]
-
-![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]
-
+<div class="grid cards" markdown>
+- :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+</div>
 # Content Tabs
 
 ## Grouping code blocks
