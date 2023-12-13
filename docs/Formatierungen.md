@@ -11,11 +11,23 @@ publish: "true"
 1. Mit ++ctrl+v++ Inhalt einfügen 
 # Bilder
 
-Zur Anpassung der Größe Bilder einfügen mit `![[image.png|300]]`  für eine Breite von 300px . 
+Zur Anpassung der Bildgröße (hier beispielhaft mit 300px Breite):
+
+```markdown
+![[image.png|300]]
+```  
+
 # Grids
 
 <div class="grid cards" markdown>
 - :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+</div>
+
+<div class="grid cards" markdown>
+- ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png]]
 - :fontawesome-brands-js: __JavaScript__ for interactivity
 - :fontawesome-brands-css3: __CSS__ for text running out of boxes
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
