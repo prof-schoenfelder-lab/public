@@ -9,7 +9,7 @@ publish: "true"
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]
 
 ## working solution with `![](<file.png>){width="300"}
-
+gehts?
 ![Image title](<Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png>){width="300"} 
 working now?
 
