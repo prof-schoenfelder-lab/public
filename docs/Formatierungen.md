@@ -27,9 +27,9 @@ Zur Anpassung der Bildgröße (hier beispielhaft mit 300px Breite):
 </div>
 
 <div class="grid cards" markdown>
-- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
-- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="/Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="../Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="docs/../Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
 - <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
 </div>
 # Content Tabs
