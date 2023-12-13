@@ -27,10 +27,10 @@ Zur Anpassung der Bildgröße (hier beispielhaft mit 300px Breite):
 </div>
 
 <div class="grid cards" markdown>
-- ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png]]
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
+- <img src="Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png" alt="Beispiel A">
 </div>
 # Content Tabs
 
