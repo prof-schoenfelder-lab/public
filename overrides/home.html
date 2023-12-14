@@ -35,10 +35,13 @@
     }
 
     .tx-hero__image {
-        width: 600px; /* Ändere dies auf die gewünschte Breite des oberen Bildes */
-        height: auto; /* Skaliere das Bild proportional */
         order: 1;
         padding-right: 2.5rem;
+    }
+
+    .upper-image {
+        width: 600px;
+        height: auto;
     }
 
     .tx-hero .md-button {
@@ -66,9 +69,9 @@
         box-sizing: border-box;
         padding: 0 15px;
         word-break: break-word;
-        width: 100%; /* Vollständige Breite */
-        max-width: 600px; /* Maximalbreite für jedes Element */
-        margin: 0 auto; /* Zentriere die Elemente auf der Seite */
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
     }
 
     .tx-hero {
@@ -76,20 +79,19 @@
         align-items: center;
     }
 
-    .tx-hero__image img {
-        width: 200px; /* Ändere dies auf die gewünschte Breite der Porträts */
-        height: auto; /* Skaliere das Bild proportional */
+    .portrait {
+        width: 150px;
+        height: auto;
     }
 
     .tx-hero--left .tx-hero__image {
-        margin-right: 20px; /* Ändere dies, um den Abstand zwischen Bild und Text zu steuern */
+        margin-right: 20px;
     }
 
     .tx-hero__content {
         flex: 1;
     }
 
-    /* Zusätzlicher vertikaler Abstand zwischen den Abschnitten */
     .tx-container h1:nth-child(n+2) {
         margin-top: 2rem;
     }
@@ -98,7 +100,7 @@
         .feature-item {
             flex: 1;
             min-width: 0;
-            margin-right: 15px; /* Ändere dies, um den Abstand zwischen den Elementen zu steuern */
+            margin-right: 15px;
         }
     }
 
@@ -151,7 +153,7 @@
         padding-right: 15px;
         padding-left: 15px;
         margin-right: auto;
-        margin-left: auto;
+        margin-left        : auto;
         margin-top: 15px;
         font-family: 'Lato', sans-serif;
         font-size: 23px;
@@ -196,7 +198,7 @@
     <div class="md-grid md-typeset">
         <div class="tx-hero">
             <div class="tx-hero__image">
-                <img src="assets/img/bike_sim.png" draggable="false">
+                <img src="assets/img/bike_sim.png" class="upper-image" draggable="false">
             </div>
             <div class="tx-hero__content">
                 <h1> Simulation technischer Systeme </h1>
@@ -227,11 +229,11 @@
     <div class="feature-item">
         <div class="tx-hero tx-hero--left">
             <div class="tx-hero__image">
-                <img src="assets/img/Stephan.png" alt="Prof. Stephan Schönfelder" width="200" draggable="false">
+                <img src="assets/img/Stephan.png" alt="Prof. Stephan Schönfelder" class="portrait" draggable="false">
             </div>
             <div class="tx-hero__content">
                 <h2>Stephan Schönfelder</h2>
-                <p>Professort</p>
+                <p>Professor an der Fakultät Ingenieurswissenschaften an der HTWK Leipzig</p>
             </div>
         </div>
     </div>
@@ -240,11 +242,11 @@
     <div class="feature-item">
         <div class="tx-hero tx-hero--left">
             <div class="tx-hero__image">
-                <img src="assets/img/Felix.png" alt="M.Eng. Felix Kaule" width="200" draggable="false">
+                <img src="assets/img/Felix.png" alt="M.Eng. Felix Kaule" class="portrait" draggable="false">
             </div>
             <div class="tx-hero__content">
                 <h2>M.Eng. Felix Kaule</h2>
-                <p>Laboringenieur</p>
+                <p>Laboringenieur an der Fakultät Ingenieurswissenschaften an der HTWK Leipzig</p>
             </div>
         </div>
     </div>
@@ -258,4 +260,3 @@
 {% block content %}{% endblock %}
 {% block footer %}{% endblock %}
 
-    
