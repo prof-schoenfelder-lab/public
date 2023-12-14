@@ -3,14 +3,8 @@
 {% block tabs %}
 {{ super() }}
 <style>
-
     .md-main {
         flex-grow: 0;
-    }
-
-    .md-main__inner {
-        display: flex;
-        height: 100%;
     }
 
     .tx-container {
@@ -20,47 +14,30 @@
 
     .tx-hero {
         margin: 32px 2.8rem;
-        color: var(--md-primary-bg-color);
-    }
-
-    .tx-hero h1 {
-        margin-bottom: 1rem;
-        color: currentColor;
-        font-weight: 700;
-    }
-
-    .tx-hero__content {
-        padding-bottom: 1rem;
-        margin: 0 auto;
+        display: flex;
+        align-items: center;
     }
 
     .tx-hero__image {
-        order: 1;
-        padding-right: 2.5rem;
-    }
-
-    .upper-image {
         width: 600px;
         height: auto;
     }
 
-    .tx-hero .md-button {
-        margin-top: .5rem;
-        margin-right: .5rem;
-        color: var(--md-primary-bg-color);
+    .portrait {
+        width: 150px;
+        height: auto;
+        margin-right: 20px;
     }
 
-    .tx-hero .md-button--primary {
-        background-color: var(--md-primary-bg-color);
-        color: hsla(280deg, 37%, 48%, 1);
-        border-color: var(--md-primary-bg-color);
+    .tx-hero__content {
+        flex: 1;
     }
 
-    .tx-hero .md-button:focus,
-    .tx-hero .md-button:hover {
-        background-color: var(--md-accent-fg-color);
-        color: var(--md-default-bg-color);
-        border-color: var(--md-accent-fg-color);
+    .top-hr {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-top: 42px;
     }
 
     .feature-item {
@@ -69,127 +46,21 @@
         box-sizing: border-box;
         padding: 0 15px;
         word-break: break-word;
-        width: 100%;
-        max-width: 600px;
-        margin: 0 auto;
-    }
-
-    .tx-hero {
-        display: flex;
-        align-items: center;
-    }
-
-    .portrait {
-        width: 150px;
-        height: auto;
-    }
-
-    .tx-hero--left .tx-hero__image {
-        margin-right: 20px;
-    }
-
-    .tx-hero__content {
-        flex: 1;
-    }
-
-    .tx-container h1:nth-child(n+2) {
-        margin-top: 2rem;
-    }
-
-    @media screen and (min-width: 76.25em) {
-        .feature-item {
-            flex: 1;
-            min-width: 0;
-            margin-right: 15px;
-        }
-    }
-
-    .top-hr {
-        margin-top: 42px;
-    }
-
-    .feature-item h2 svg {
-        height: 30px;
-        float: left;
-        margin-right: 10px;
-        transform: translateY(10%);
-    }
-
-    .top-hr {
-        margin-top: 42px;
+        width: 48%;
+        max-width: 300px;
+        margin: 0;
     }
 
     .feature-item h2 {
-        color: #333;
-        font-weight: 300;
-        font-size: 25px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        line-height: normal;
-        margin-top: 20px;
-        margin-bottom: 10px;
-        font-family: inherit;
-    }
-
-    .feature-item p {
-        font-size: 16px;
-        line-height: 1.8em;
-        text-rendering: optimizeLegibility;
-        -webkit-font-smoothing: antialiased;
-        color: #111;
-        margin: 0 0 10px;
-        display: block;
+        white-space: normal;
+        overflow: visible;
+        text-overflow: inherit;
     }
 
     .hr {
         border-bottom: 1px solid #eee;
         width: 100%;
         margin: 20px 0;
-    }
-
-    .text-center {
-        text-align: center;
-        padding-right: 15px;
-        padding-left: 15px;
-        margin-right: auto;
-        margin-left        : auto;
-        margin-top: 15px;
-        font-family: 'Lato', sans-serif;
-        font-size: 23px;
-        font-weight: 300;
-        padding-bottom: 10px;
-    }
-
-    .logos {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-flow: row wrap;
-        margin: 0 auto;
-    }
-
-    .logos img {
-        flex: 1 1 auto;
-        padding: 25px;
-        max-height: 130px;
-        vertical-align: middle;
-    }
-
-    .hr-logos {
-        margin-top: 0;
-        margin-bottom: 30px;
-    }
-
-    .md-footer-meta__inner {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        margin-top: 1.0rem;
-    }
-
-    .md-footer-social {
-        padding-top: 20px;
     }
 </style>
 
@@ -259,4 +130,3 @@
 {% endblock %}
 {% block content %}{% endblock %}
 {% block footer %}{% endblock %}
-
