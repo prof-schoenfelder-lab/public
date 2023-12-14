@@ -3,7 +3,7 @@ publish: "true"
 title: Angewandte FEM (Strukturmechanik)
 ---
 
-# [[Praktikum 1 - Einfuehrung ANSYS Workbench|Praktikum 1 - Einfuehrung ANSYS Workbench]]
+# [[P1 - Einfuehrung ANSYS Workbench|P1 - Einfuehrung ANSYS Workbench]]
 - Grundlegendes Verständnis über das **Grundprinzip der Finite-Elemente** **Methode** (FEM)
 - **Kennenlernen** von **Abläufen im Simulationsprogramm (ANSYS Workbench)** zum Lösen von strukturmechanischen Problemstellungen
 ![[Angewandte FEM (Strukturmechanik)/attachments/BeispielA_Aufgabenstellung.png|300]]{ align="left" }
@@ -13,7 +13,7 @@ title: Angewandte FEM (Strukturmechanik)
   
 ---
   
-# [[Praktikum 2 - Geometrieerstellung und Randbedingungen|Praktikum 2 - Geometrieerstellung und Randbedingungen]]
+# [[P2 - Geometrieerstellung und Randbedingungen|P2 - Geometrieerstellung und Randbedingungen]]
 - Kennenlernen der grundlegenden Methoden zur **Geometrieerstellung** mit **SpaceClaim**
 - Kennenlernen der möglichen **Randbedingungen** in ANSYS Mechanical
 ![[Pull-Flaeche.gif|Pull-Flaeche.gif]]
@@ -24,7 +24,7 @@ title: Angewandte FEM (Strukturmechanik)
   
 ---
   
-# [[Praktikum 3 - Vernetzung|Praktikum 3 - Vernetzung]]
+# [[P3 - Vernetzung|P3 - Vernetzung]]
 - Kennenlernen der **grundlegenden Methoden** zur **Vernetzung** in ANSYS Mechanical
 - **Verständnis** über ein **gutes** und **feines Netz** bekommen
 ![[Einfuehrung.png|Einfuehrung.png]]
@@ -36,7 +36,7 @@ title: Angewandte FEM (Strukturmechanik)
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled 8.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled 8.png]]
 ---
   
-# [[Praktikum 4 - Abstraktionen|Praktikum 4 - Abstraktionen]]
+# [[P4 - Abstraktionen|P4 - Abstraktionen]]
 - **Kennenlernen** der möglichen **Abstraktionen** und deren **Umsetzung** in ANSYS Mechanical
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled 9.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled 9.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled 10.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled 10.png]]
@@ -46,7 +46,7 @@ title: Angewandte FEM (Strukturmechanik)
   
 ---
   
-# [[Praktikum 5 - Post-Processing & Parametrisierung|Praktikum 5 - Post-Processing & Parametrisierung]]
+# [[P5 - Post-Processing & Parametrisierung|P5 - Post-Processing & Parametrisierung]]
 - **Kennenlernen** der verschiedenen **Möglichkeiten** der **Ergebnisdarstellung** (PostProcessing) in ANSYS
 ![[Vektor.png|Vektor.png]]
 ![[Angewandte FEM (Strukturmechanik)/attachments/Untitled 11.png|Angewandte FEM (Strukturmechanik)/attachments/Untitled 11.png]]
