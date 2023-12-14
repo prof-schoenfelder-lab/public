@@ -1,5 +1,6 @@
 ---
 publish: "true"
+toc: "false"
 title: Angewandte FEM (Strukturmechanik)
 ---
 
