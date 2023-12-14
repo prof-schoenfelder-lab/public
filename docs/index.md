@@ -2,9 +2,6 @@
 publish: "true"
 template: home2.html
 title: Professur Simulation energetischer und technischer Systeme
-social:
-  cards_layout_options:
-    title: Lehreinhalte
 ---
 
 
