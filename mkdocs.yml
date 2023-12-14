@@ -4,8 +4,8 @@ site_url: https://prof-schoenfelder-lab.github.io/public
 
 theme:
     name: 'material'
-    logo: assets/img/Logo.png
-    favicon: assets/img/Logo.png
+    logo: assets/img/Logo_Box.png
+    favicon: assets/img/Logo_Box.png
     custom_dir: overrides
     font:
         text: Ubuntu
