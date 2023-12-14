@@ -19,33 +19,59 @@
     }
 
     .tx-hero {
-        margin: 32px 2.8rem;
-        color: var(--md-primary-bg-color);
-    }
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Platzierung der .tx-hero__image und .tx-hero__content am Rand */
+    margin: 32px 2.8rem;
+    color: var(--md-primary-bg-color);
+}
 
     .tx-hero h1 {
         margin-bottom: 1rem;
         color: currentColor;
-        font-weight: 500;
+        font-weight: 700;
+        font-size: 1.3rem;
     }
 
     .tx-hero__content {
-        padding-bottom: 1rem;
+        padding-bottom: 0.2rem;
         margin: 0 auto;
     }
 
     .tx-hero__image {
-        order: 1;
-        padding-right: 6rem;
-    }
+    width: 600px;
+    position: relative;
+    order: 1;
+    z-index: 1;
+}
 
-    .upper-image {
-        width: 600px;
-        height: auto;
-    }
+.upper-image,
+.upper-image-exp {
+    width: 100%;
+    height: auto;
+}
+
+.upper-image-exp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 1; /* Ändere die Opazität zu 1, um das Bild sofort sichtbar zu machen */
+    order: 2;
+    z-index: 2;
+}
+
+.tx-hero__content {
+    flex: 1;
+    padding-bottom: 1rem;
+    margin: 0 2.5rem; /* Ändere den Abstand nach Bedarf */
+}
+
+.tx-hero__content p {
+    margin-bottom: 0.02rem; /* Ändere diese Zahl entsprechend deiner Präferenz */
+}
 
     .tx-hero .md-button {
-        margin-top: .5rem;
+        margin-top: .1rem;
         margin-right: .5rem;
         color: var(--md-primary-bg-color);
     }
@@ -197,9 +223,6 @@
 <section class="tx-container">
     <div class="md-grid md-typeset">
         <div class="tx-hero">
-            <div class="tx-hero__image">
-                <img src="assets/img/bike_sim.png" class="upper-image" draggable="false">
-            </div>
             <div class="tx-hero__content">
                 <h1> Simulation technischer Systeme </h1>
                 <p>Maschinenbau Bachelor</p>
@@ -218,6 +241,10 @@
                     class="md-button md-button--primary">
                     Angewandte FEM in der Thermodynamik
                 </a>
+            </div>
+            <div class="tx-hero__image">
+                <img src="assets/img/bike_exp.png" class="upper-image-exp" draggable="false">
+                <img src="assets/img/bike_sim.png" class="upper-image" draggable="false">
             </div>
         </div>
     </div>
