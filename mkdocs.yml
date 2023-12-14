@@ -6,7 +6,7 @@ theme:
     name: 'material'
     logo: assets/img/logo.png
     favicon: assets/img/logo.png
-    custom_dir: docs/overrides
+    custom_dir: overrides
     font:
         text: Ubuntu
         code: Ubuntu Mono
