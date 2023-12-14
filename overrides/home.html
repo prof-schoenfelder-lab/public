@@ -1,12 +1,11 @@
 <!-- Custom HTML site displayed as the Home chapter -->
-
 {% extends "main.html" %}
 {% block tabs %}
 {{ super() }}
 <style>
 
     .md-main {
-        flex-grow: 0
+        flex-grow: 0;
     }
 
     .md-main__inner {
@@ -16,7 +15,7 @@
 
     .tx-container {
         padding-top: .0rem;
-        background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(160deg,47%,55%,1) 99%,#fff 99%)
+        background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(160deg,47%,55%,1) 99%,#fff 99%);
     }
 
     .tx-hero {
@@ -27,7 +26,7 @@
     .tx-hero h1 {
         margin-bottom: 1rem;
         color: currentColor;
-        font-weight: 700
+        font-weight: 700;
     }
 
     .tx-hero__content {
@@ -35,30 +34,30 @@
         margin: 0 auto;
     }
 
-    .tx-hero__image{
-        width:17rem;
-        height:17rem;
-        order:1;
+    .tx-hero__image {
+        width: 600px; /* Ändere dies auf die gewünschte Breite des oberen Bildes */
+        height: auto; /* Skaliere das Bild proportional */
+        order: 1;
         padding-right: 2.5rem;
     }
 
     .tx-hero .md-button {
         margin-top: .5rem;
         margin-right: .5rem;
-        color: var(--md-primary-bg-color)
+        color: var(--md-primary-bg-color);
     }
 
     .tx-hero .md-button--primary {
         background-color: var(--md-primary-bg-color);
         color: hsla(280deg, 37%, 48%, 1);
-        border-color: var(--md-primary-bg-color)
+        border-color: var(--md-primary-bg-color);
     }
 
     .tx-hero .md-button:focus,
     .tx-hero .md-button:hover {
         background-color: var(--md-accent-fg-color);
         color: var(--md-default-bg-color);
-        border-color: var(--md-accent-fg-color)
+        border-color: var(--md-accent-fg-color);
     }
 
     .feature-item {
@@ -78,7 +77,7 @@
     }
 
     .tx-hero__image img {
-        width: 300px; /* Ändere dies auf die gewünschte Breite der Bilder */
+        width: 200px; /* Ändere dies auf die gewünschte Breite der Porträts */
         height: auto; /* Skaliere das Bild proportional */
     }
 
@@ -88,6 +87,11 @@
 
     .tx-hero__content {
         flex: 1;
+    }
+
+    /* Zusätzlicher vertikaler Abstand zwischen den Abschnitten */
+    .tx-container h1:nth-child(n+2) {
+        margin-top: 2rem;
     }
 
     @media screen and (min-width: 76.25em) {
@@ -172,32 +176,48 @@
 
     .hr-logos {
         margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    .md-footer-meta__inner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 1.0rem;
+    }
+
+    .md-footer-social {
+        padding-top: 20px;
+    }
 </style>
 
 <!-- Main site Entry button descriptions -->
 <section class="tx-container">
     <div class="md-grid md-typeset">
-      <div class="tx-hero">
-        <div class="tx-hero__image">
-          <img src="assets/img/bike_sim.png" draggable="false">
+        <div class="tx-hero">
+            <div class="tx-hero__image">
+                <img src="assets/img/bike_sim.png" draggable="false">
+            </div>
+            <div class="tx-hero__content">
+                <h1> Simulation technischer Systeme </h1>
+                <p>Maschinenbau Bachelor</p>
+                <a href="Angewandte%20FEM%20(Strukturmechanik)" title="Angewandte FEM in der Strukturmechanik"
+                    class="md-button md-button--primary">
+                    Angewandte FEM in der Strukturmechanik
+                </a>
+                <p>Maschinenbau Master</p>
+                <a href="Nichtlineare Strukturmechanik" title="Nichtlineare Strukturmechanik"
+                    class="md-button md-button--primary">
+                    Nichtlineare Strukturmechanik
+                </a>
+                <h1> Simulation energetischer Systeme </h1>
+                <p>Energietechnik Bachelor</p>
+                <a href="Angewandte%20FEM%20(Thermodynamik)" title="Angewandte FEM in der Thermodynamik"
+                    class="md-button md-button--primary">
+                    Angewandte FEM in der Thermodynamik
+                </a>
+            </div>
         </div>
-        <div class="tx-hero__content">
-          <h1> Simulation technischer Systeme </h1>
-          <p>Maschinenbau Bachelor</p>
-          <a href="Angewandte%20FEM%20(Strukturmechanik)" title="Angewandte FEM in der Strukturmechanik" class="md-button md-button--primary">
-            Angewandte FEM in der Strukturmechanik
-          </a>
-          <p>Maschinenbau Master</p>
-          <a href="Nichtlineare Strukturmechanik" title="Nichtlineare Strukturmechanik" class="md-button md-button--primary">
-            Nichtlineare Strukturmechanik
-          </a>
-          <h1> Simulation energetischer Systeme </h1>
-          <p>Energietechnik Bachelor</p>
-          <a href="Angewandte%20FEM%20(Thermodynamik)" title="Angewandte FEM in der Thermodynamik" class="md-button md-button--primary">
-            Angewandte FEM in der Thermodynamik
-          </a>
-        </div>
-      </div>
     </div>
 </section>
 
@@ -207,7 +227,7 @@
     <div class="feature-item">
         <div class="tx-hero tx-hero--left">
             <div class="tx-hero__image">
-                <img src="assets/img/Stephan.png" alt="Prof. Stephan Schönfelder" width="300" draggable="false">
+                <img src="assets/img/Stephan.png" alt="Prof. Stephan Schönfelder" width="200" draggable="false">
             </div>
             <div class="tx-hero__content">
                 <h2>Stephan Schönfelder</h2>
@@ -220,7 +240,7 @@
     <div class="feature-item">
         <div class="tx-hero tx-hero--left">
             <div class="tx-hero__image">
-                <img src="assets/img/Felix.png" alt="M.Eng. Felix Kaule" width="300" draggable="false">
+                <img src="assets/img/Felix.png" alt="M.Eng. Felix Kaule" width="200" draggable="false">
             </div>
             <div class="tx-hero__content">
                 <h2>M.Eng. Felix Kaule</h2>
@@ -234,9 +254,8 @@
     <div class="hr"></div>
 </div>
 
-
-
-
 {% endblock %}
 {% block content %}{% endblock %}
 {% block footer %}{% endblock %}
+
+    
