@@ -142,5 +142,4 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
-copyright:
-copyright 2023 <a href="https://fing.htwk-leipzig.de/fakultaet/professuren/prof-stephan-schoenfelder" target="_blank" rel="noopener">Prof. Stephan Schönfelder</a> und <a href="https://fing.htwk-leipzig.de/fakultaet/mitglieder/wissenschaftliche-mitarbeitende/felix-kaule" target="_blank" rel="noopener">Felix Kaule</a>
+copyright: copyright 2023 <a href="https://fing.htwk-leipzig.de/fakultaet/professuren/prof-stephan-schoenfelder" target="_blank" rel="noopener">Prof. Stephan Schönfelder</a> und <a href="https://fing.htwk-leipzig.de/fakultaet/mitglieder/wissenschaftliche-mitarbeitende/felix-kaule" target="_blank" rel="noopener">Felix Kaule</a>
