@@ -1,6 +1,6 @@
 ---
 publish: "true"
-template: home.html
+template: home2.html
 title: Professur Simulation energetischer und technischer Systeme
 social:
   cards_layout_options:
