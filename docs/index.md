@@ -1,6 +1,6 @@
 ---
 publish: "true"
-template: home2.html
+template: home.html
 title: Professur Simulation energetischer und technischer Systeme
 ---
 
